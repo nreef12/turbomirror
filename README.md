@@ -1,6 +1,6 @@
 # Mirror
 
-https://mirror.turbowarp.xyz/
+[![Deploy to GitHub Pages](https://github.com/nreef12/turbomirror/actions/workflows/deploy.yml/badge.svg)](https://github.com/nreef12/turbomirror/actions/workflows/deploy.yml)
 
 These are some scripts for making mirrors of [TurboWarp](https://turbowarp.org/).
 
